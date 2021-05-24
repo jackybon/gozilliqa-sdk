@@ -3,9 +3,9 @@ package transaction
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/Zilliqa/gozilliqa-sdk/core"
-	"github.com/Zilliqa/gozilliqa-sdk/provider"
-	"github.com/Zilliqa/gozilliqa-sdk/util"
+	"github.com/jackybon/gozilliqa-sdk/core"
+	"github.com/jackybon/gozilliqa-sdk/provider"
+	"github.com/jackybon/gozilliqa-sdk/util"
 	"strconv"
 	"strings"
 	"time"

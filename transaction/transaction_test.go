@@ -17,8 +17,8 @@
 package transaction
 
 import (
-	"github.com/Zilliqa/gozilliqa-sdk/core"
-	"github.com/Zilliqa/gozilliqa-sdk/provider"
+	"github.com/jackybon/gozilliqa-sdk/core"
+	"github.com/jackybon/gozilliqa-sdk/provider"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"testing"

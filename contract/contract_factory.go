@@ -19,9 +19,9 @@ package contract
 import (
 	"crypto/sha256"
 	"fmt"
-	"github.com/Zilliqa/gozilliqa-sdk/keytools"
-	"github.com/Zilliqa/gozilliqa-sdk/transaction"
-	"github.com/Zilliqa/gozilliqa-sdk/util"
+	"github.com/jackybon/gozilliqa-sdk/keytools"
+	"github.com/jackybon/gozilliqa-sdk/transaction"
+	"github.com/jackybon/gozilliqa-sdk/util"
 	"strconv"
 )
 

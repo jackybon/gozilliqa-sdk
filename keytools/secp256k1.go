@@ -20,7 +20,7 @@ import (
 	"crypto/rand"
 	"math/big"
 
-	"github.com/Zilliqa/gozilliqa-sdk/util"
+	"github.com/jackybon/gozilliqa-sdk/util"
 	"github.com/btcsuite/btcd/btcec"
 )
 

@@ -16,7 +16,7 @@
  */
 package contract
 
-import "github.com/Zilliqa/gozilliqa-sdk/core"
+import "github.com/jackybon/gozilliqa-sdk/core"
 
 type Data struct {
 	Tag    string               `json:"_tag"`

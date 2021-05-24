@@ -17,7 +17,7 @@
 package validator
 
 import (
-	"github.com/Zilliqa/gozilliqa-sdk/util"
+	"github.com/jackybon/gozilliqa-sdk/util"
 	"regexp"
 	"strconv"
 )
